@@ -7,6 +7,6 @@
 
 * [java](java/java/README.md)
   * [gc](java/java/gc.md)
-    * cms
-    * g1
+    * [cms](java/java/gc/cms.md)
+    * [g1](java/java/gc/g1.md)
 
