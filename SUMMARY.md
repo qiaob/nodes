@@ -1,7 +1,6 @@
 # Summary
 
 * [学习笔记](README.md)
-* [gc](gc.md)
 
 ## java
 
